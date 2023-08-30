@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Caprasimo';
+    src: url('../fonts/Caprasimo-Regular.woff2') format('woff2'),
+        url('../fonts/Caprasimo-Regular.woff') format('woff'),
+        url('../fonts/Caprasimo-Regular.ttf') format('ttf');
+}
+
+body {
+    background-color:#f0fff0;
+    font-family: 'Caprasimo', sans-serif;
+}
+
+.bg-colorPrincipal{
+    background-color: #6495ed;
+}
+
+.bg-principal{
+    background-color: #7fffd4;
+}
